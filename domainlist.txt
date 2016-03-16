@@ -1,0 +1,66 @@
+# google and youtube
+.appspot.com
+.blogspot.com
+.blogger.com
+.google.com
+.google.com.hk
+.google.co.jp
+.google.co.uk
+.gstatic.com
+.ggpht.com
+.googleusercontent.com
+.googlecode.com
+.googleapis.com
+.gmail.com
+.google-analytics.com
+.googlevideo.com
+.goo.gl
+.googledrive.com
+.googleplus.com
+.googleplay.com
+.ytimg.com
+.youtu.be
+.youtube.com
+.youtube-nocookie.com
+
+# twitter
+.twitter.com
+.t.co
+.bitly.com
+.twimg.com
+.tinypic.com
+.yfrog.com
+
+# facebook
+.facebook.com
+.thefacebook.com
+.facebook.net
+.fbcdn.net
+.akamaihd.net
+
+# yahoo
+.flickr.com
+.staticflickr.com
+.flickrhivemind.net
+.yahoo.com
+.yahoo.co.jp
+.yahoo.com.tw
+
+# wikipedia
+.wikipedia.org
+.wikimedia.org
+.wiktionary.org
+
+# github
+.github.com
+.github.io
+.git.io
+.githubusercontent.com
+
+# misc
+.dropbox.com
+.sourceforge.net
+.feedly.com
+.mitbbs.com
+.huaren.us
+.xda-developers.com

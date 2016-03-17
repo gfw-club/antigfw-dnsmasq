@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}

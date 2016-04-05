@@ -18,10 +18,16 @@
 .googledrive.com
 .googleplus.com
 .googleplay.com
+.googlesource.com
 .ytimg.com
 .youtu.be
 .youtube.com
 .youtube-nocookie.com
+.gvt1.com
+.gvt2.com
+.gvt3.com
+.gvt4.com
+.gvt5.com
 
 # twitter
 .twitter.com
@@ -64,3 +70,4 @@
 .mitbbs.com
 .huaren.us
 .xda-developers.com
+ipinfo.io
